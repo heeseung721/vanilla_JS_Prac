@@ -1,5 +1,3 @@
-# vanilla_JS_Prac
-
 Vanilla Javascript practice with NOMAD CODERS
 
 ## 2022.12.31(업로드)
